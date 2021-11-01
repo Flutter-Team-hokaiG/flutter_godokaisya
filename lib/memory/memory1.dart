@@ -7,7 +7,7 @@ class Memory1 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('メモリ1'),
+        title: Text('メモリA'),
       ),
     );
   }
